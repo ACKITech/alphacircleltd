@@ -197,16 +197,17 @@ h6 {
   }
 }
 
-@media (max-width: 392px) {
+@media (max-width: 387px) {
   .header .logo {
     order: 1;
+    width: 150px;
   }
 
   .btn-getstarted {
     order: 2;
-    margin: 0 10px 0 0;
-    padding: 3px 5px;
-    width: 250px;
+    margin: 0 5px 0 0;
+    padding: 2px 4px;
+    width: 150px;
 
 
   }
