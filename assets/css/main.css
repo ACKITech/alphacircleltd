@@ -503,8 +503,18 @@ h6 {
 @media (max-width: 387px) {
   .footer-top {
     padding-left: 40px;
+
   }
 }
+
+@media (max-width: 200px) {
+  .footer-top {
+    padding-left: 40px;
+    margin-left: 20px;
+    
+  }
+}
+
 .footer .footer-about .logo {
   line-height: 1;
   margin-bottom: 25px;
@@ -1405,6 +1415,8 @@ section,
   padding-bottom: 30px;
 }
 
+
+
 .services .services-row {
   position: relative;
 }
@@ -1426,6 +1438,13 @@ section,
 
 .services .services-description {
   margin-bottom: 30px;
+}
+
+@media (max-width: 412px) {
+   .services-headline .services-title .services-description {
+    margin-left: 20px;
+    padding: 10px;
+  }
 }
 
 .services .services-description p {
