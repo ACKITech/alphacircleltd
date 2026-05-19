@@ -501,7 +501,7 @@ h6 {
 }
 @media (max-width: 412px) {
   .footer-top {
-    padding: 30px;
+    padding: 40px;
   }
 }
 
@@ -1447,8 +1447,7 @@ section,
 
 @media (max-width: 412px) {
    .services-headline .services-title .services-description {
-    margin-left: 20px;
-    padding: 20px;
+    padding: 40px;
   }
 }
 
